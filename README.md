@@ -1,7 +1,7 @@
 # Simple Calculator and Password Generator 🧮🔒
 
 ## Introduction 🌟
-This Python script features two practical tools: a Simple Calculator for basic arithmetic operations and a Password Generator for creating secure passwords. It's an easy-to-use, command-line application ideal for everyday tasks.
+These Python projects, developed as part of the CodSoft internship program, feature two practical tools: a Simple Calculator for basic arithmetic operations and a Password Generator for creating secure passwords. These easy-to-use, command-line applications are ideal for everyday tasks.
 
 ## Calculator Features 📐
 - **Basic Operations**: Perform addition, subtraction, multiplication, and division.
